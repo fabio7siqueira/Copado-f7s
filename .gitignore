@@ -1,0 +1,12 @@
+#package.xml file is recreated on the fly by Copado, no need to track unnecessary changes of this file
+package.xml
+
+classes/copado__*
+components/copado__*
+flows/copado__*
+staticresources/copado__*
+tabs/copado__*
+triggers/copado__*
+pages/copado__*
+
+permissionsets/copado__*
